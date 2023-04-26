@@ -63,7 +63,7 @@ return (
               <button  className="button-9 button-10" role="button"
               
               onClick={() => onItemDiLiked(item,index)}>
-              <img src ="%PUBLIC_URL%/../dislike.png" alt='Dislike logo' width={40} height={40}/>
+              <img src ="%PUBLIC_URL%/../Dislike.png" alt='Dislike logo' width={40} height={40}/>
               </button>
               <p>You liked {item.like} times</p>
             </div>

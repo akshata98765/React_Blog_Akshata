@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_Blog_Akshata/static/css/main.e9b25750.css",
+    "main.js": "/React_Blog_Akshata/static/js/main.ada1bc8e.js",
+    "static/js/787.f587e8d5.chunk.js": "/React_Blog_Akshata/static/js/787.f587e8d5.chunk.js",
+    "static/media/background_img.png": "/React_Blog_Akshata/static/media/background_img.feb39671e53f242e1e01.png",
+    "static/media/bck_img.png": "/React_Blog_Akshata/static/media/bck_img.3a57c9d56a28a422c47f.png",
+    "index.html": "/React_Blog_Akshata/index.html",
+    "main.e9b25750.css.map": "/React_Blog_Akshata/static/css/main.e9b25750.css.map",
+    "main.ada1bc8e.js.map": "/React_Blog_Akshata/static/js/main.ada1bc8e.js.map",
+    "787.f587e8d5.chunk.js.map": "/React_Blog_Akshata/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9b25750.css",
+    "static/js/main.ada1bc8e.js"
+  ]
+}
